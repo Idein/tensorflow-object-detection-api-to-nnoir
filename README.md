@@ -1,4 +1,4 @@
-# tensorflow-object-detection-to-nnoir
+# tensorflow-object-detection-api-to-nnoir
 
 ## notebook/ssdlite_mobilenet_v2_coco_2018_05_09_to_nnoir.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Idein/tensorflow-object-detection-api-to-nnoir/blob/master/notebook/ssdlite_mobilenet_v2_coco_2018_05_09_to_nnoir.ipynb) 
 - Convert TensorFlow Pretrained Model ( ssdlite_mobilenet_v2_coco_2018_05_09 ) to nnoir and then inference with nnoir.
